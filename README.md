@@ -7,4 +7,4 @@ The app reminds you to look away from the screen every 20 minutes, and to take a
 
 It's not meant to be pretty, just functional!
 
-See https://www.softwariness.com/musings/taking-a-break-from-the-screen/ for more info.
+See https://www.softwariness.com/articles/taking-a-break-from-the-screen/ for more info.
